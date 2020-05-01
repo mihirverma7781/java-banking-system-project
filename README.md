@@ -55,3 +55,6 @@ here you can close your account permanently if you want to
 
 <B> Activity Duagram</B>
 <img src=https://github.com/mihirverma7781/java-banking-system-project/blob/master/images/activity.jpg>
+
+<b> Er diagram</b>
+<img src=https://github.com/mihirverma7781/java-banking-system-project/blob/master/images/IMG_20200501_123152.jpg>
