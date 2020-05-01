@@ -32,8 +32,13 @@ secondly afer signup here you can login into the main page by filling only corre
 At this page you can deposit the money as you want to
 <image src=https://github.com/mihirverma7781/java-banking-system-project/blob/master/images/deposit.jpg>
 
+Here you can withdraw your money atmost the account balance you have
+<img src=https://github.com/mihirverma7781/java-banking-system-project/blob/master/images/withdraw.jpg>
+
+Here you can transfer your money to any other exixting account
+<image src=>
 
 
 
-
-
+here you can close your account permanently if you want to
+<img src=>
