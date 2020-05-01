@@ -7,11 +7,9 @@ This project is aimed at developing an Online Banking for customer. The system i
 The project is implemented in ADV JAVA, hence the software’s required in the creation and execution of the project are J2EE ,NETBEANS or Eclipse .
 
 <b>User of System</b>
-1:admin
-2:Account holders/new members
+1:Account holders/new members
 
 <b>Functional Requirements</b>
-1: Admin : can see the databases of the account holders and manage the user accounts properly after getting logged in.
 2: Seekers/members: can create their new account by registering.and after getting logged in they can do transactions of their monet.also they can close their if they want.
 
 <b>Tools Used</b>
