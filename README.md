@@ -21,6 +21,8 @@ The project is implemented in ADV JAVA, hence the software’s required in the c
 
 <B>Working of project with screen shots</B>
 
+This is the home page here you can signup by filling your details.
+<img src=https://github.com/mihirverma7781/java-banking-system-project/blob/master/images/homesignup.jpg>
 
 
 
