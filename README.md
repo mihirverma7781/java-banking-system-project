@@ -50,4 +50,10 @@ here you can close your account permanently if you want to
 <img src=https://github.com/mihirverma7781/java-banking-system-project/blob/master/images/uml.jpg>
 
 <b> Flow Diagram</b>
-<img src =
+<img src =https://github.com/mihirverma7781/java-banking-system-project/blob/master/images/data%20flow%20diagram.jpg>
+
+<b> ER Diagram</b>
+<img src=https://github.com/mihirverma7781/java-banking-system-project/blob/master/images/data%20flow%20diagram.jpg>
+
+<B> Activity Duagram</B>
+<img src=https://github.com/mihirverma7781/java-banking-system-project/blob/master/images/activity.jpg>
