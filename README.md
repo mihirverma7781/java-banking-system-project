@@ -25,6 +25,11 @@ This is the home page here you can signup by filling your details.
 <img src=https://github.com/mihirverma7781/java-banking-system-project/blob/master/images/homesignup.jpg>
 
 
+secondly afer signup here you can login into the main page by filling only correct details
+<img src=https://github.com/mihirverma7781/java-banking-system-project/blob/master/images/login.jpg>
+
+
+
 
 
 
