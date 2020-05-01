@@ -29,6 +29,8 @@ secondly afer signup here you can login into the main page by filling only corre
 <img src=https://github.com/mihirverma7781/java-banking-system-project/blob/master/images/login.jpg>
 
 
+At this page you can deposit the money as you want to
+<image src=https://github.com/mihirverma7781/java-banking-system-project/blob/master/images/deposit.jpg>
 
 
 
