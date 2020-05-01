@@ -1,4 +1,3 @@
 # java-banking-system-project
-# project in BankingSystem.7z zip file
-# project report in PROJECT REPORT.docx
-# project outputs in WORKING OF PROJECT.DOCX  
+OBJECTIVE:
+here user can post and view their account  details after getting logged inand transact money from their account to any.
