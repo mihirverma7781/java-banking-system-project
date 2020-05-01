@@ -41,4 +41,13 @@ Here you can transfer your money to any other exixting account
 
 
 here you can close your account permanently if you want to
-<img src=>
+<img src=https://github.com/mihirverma7781/java-banking-system-project/blob/master/images/closeacc.jpg>
+
+
+
+<b>Class Diagram</b>
+
+<img src=https://github.com/mihirverma7781/java-banking-system-project/blob/master/images/uml.jpg>
+
+<b> Flow Diagram</b>
+<img src =
